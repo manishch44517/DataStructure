@@ -45,7 +45,7 @@ void display()
 		printf("The elements are\n");
 		for(i=top;i>=0;i--)
 		{
-			printf("%d\n"stack[i]);
+			printf("%d\n",stack[i]);
 		}
 	}
 }
