@@ -24,6 +24,7 @@ stack * create_stack()
 
 bool empty_Stack(stack * s )
 {
+    //this is correct
     return s->size == 0 ;
 }
 
